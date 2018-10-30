@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  wkwebview_swift4
-//
-//  Created by Ivan Santos on 14/10/17.
-//  Copyright © 2017 Ivan Pires. All rights reserved.
-//
-
 import UIKit
 import WebKit
 
